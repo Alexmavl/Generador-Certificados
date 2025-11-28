@@ -651,13 +651,22 @@ const App: React.FC = () => {
 
 
               <a
-                href="https://wa.me/50433585075"
+                href="https://wa.me/50233585075"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 hover:opacity-80 transition-opacity"
               >
                 <MessageCircle size={18} />
                 <span className="text-sm">WhatsApp: 3358-5075</span>
+              </a>
+                  <a
+                href="https://wa.me/50232313250"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center space-x-2 hover:opacity-80 transition-opacity"
+              >
+                <MessageCircle size={18} />
+                <span className="text-sm">WhatsApp: 3231-3250</span>
               </a>
             </div>
           </div>
