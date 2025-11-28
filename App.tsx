@@ -630,7 +630,7 @@ const App: React.FC = () => {
           <div className="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0">
             <div>
               <p className="text-sm font-semibold">Generador de Certificados</p>
-              <p className="text-xs opacity-80">© 2025 Todos los derechos reservados para Selvin Lopez y Marvin Vásquez</p>
+              <p className="text-xs opacity-80"> Autores: Selvin Lopez y Marvin Vásquez</p>
             </div>
 
             <div className="flex flex-col md:flex-row items-center gap-4">
