@@ -630,7 +630,7 @@ const App: React.FC = () => {
           <div className="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0">
             <div>
               <p className="text-sm font-semibold">Generador de Certificados</p>
-              <p className="text-xs opacity-80">© 2025 Todos los derechos reservados</p>
+              <p className="text-xs opacity-80">© 2025 Todos los derechos reservados para Selvin Lopez y Marvin Vásquez</p>
             </div>
 
             <div className="flex flex-col md:flex-row items-center gap-4">
@@ -641,6 +641,14 @@ const App: React.FC = () => {
                 <Mail size={18} />
                 <span className="text-sm">marvinv708@gmail.com</span>
               </a>
+              <a
+                href="mailto:selvinlomiguel@gmail.com"
+                className="flex items-center space-x-2 hover:opacity-80 transition-opacity"
+              >
+                <Mail size={18} />
+                <span className="text-sm">selvinlomiguel@gmail.com</span>
+              </a>
+
 
               <a
                 href="https://wa.me/50433585075"
