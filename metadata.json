@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Certificados",
+  "description": "Una herramienta basada en navegador para generar certificados PDF en masa a partir de datos de Excel. Incluye funciones de arrastrar y soltar para posicionamiento, firmas digitales, sellos y exportación en ZIP. No requiere instalación.",
+  "requestFramePermissions": []
+}
