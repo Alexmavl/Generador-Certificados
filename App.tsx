@@ -427,7 +427,7 @@ const App: React.FC = () => {
 
               {/* Common Label */}
               <div>
-                <label className="block text-xs font-medium text-gray-700 mb-1">Label</label>
+                <label className="block text-xs font-medium text-gray-700 mb-1">Etiqueta</label>
                 <input
                   type="text"
                   value={selectedElement.label}
