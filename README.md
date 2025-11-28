@@ -1,8 +1,7 @@
 # 📜 Generador de Certificados
 
 <div align="center">
-  <img src="./image/Logotipo MV transparente.png" alt="Logo MV" width="200"/>
-  
+ 
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
   [![React](https://img.shields.io/badge/React-18.2-blue.svg)](https://reactjs.org/)
@@ -148,7 +147,17 @@ La aplicación estará disponible en: **http://localhost:5173**
 
 ---
 
-## 🏗️ Scripts Disponibles
+## � Demo en Vivo
+
+La aplicación está desplegada y disponible en:
+
+**🔗 [https://generador-certificados-lwdg.vercel.app/](https://generador-certificados-lwdg.vercel.app/)**
+
+Puedes probar todas las funcionalidades sin necesidad de instalar nada localmente.
+
+---
+
+## �🏗️ Scripts Disponibles
 
 ```bash
 # Iniciar servidor de desarrollo
@@ -247,19 +256,26 @@ Las contribuciones son bienvenidas. Si deseas contribuir:
 
 ---
 
-## 📞 Contacto
+## 📞 Contactos
 
 **Marvin Vásquez**
 
 - 📧 Email: [marvinv708@gmail.com](mailto:marvinv708@gmail.com)
-- 💬 WhatsApp: [+504 3358-5075](https://wa.me/50433585075)
+- 💬 WhatsApp: [+502 3358-5075](https://wa.me/50233585075)
 - 🌐 GitHub: [@Alexmavl](https://github.com/Alexmavl)
+
+---
+**Marvin Vásquez**
+
+- 📧 Email: [selvinlomiguel@gmail.com](mailto:selvinlomiguel@gmail.com)
+- 💬 WhatsApp: [+502 3231-3250](https://wa.me/50232313250)
+- 🌐 GitHub: [@QuimiSell](https://github.com/QuimiSell)
 
 ---
 
 ## 📄 Licencia
 
-© 2025 Todos los derechos reservados para Marvin Vásquez
+© 2025 Todos los derechos reservados para Marvin Vásquez y Selvin López
 
 ---
 
@@ -274,5 +290,5 @@ Las contribuciones son bienvenidas. Si deseas contribuir:
 ---
 
 <div align="center">
-  Hecho con ❤️ por Marvin Vásquez
+  Hecho por Marvin Vásquez y Selvin López
 </div>
